@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="11" modulename="scorm" contextid="57">
+  <scorm id="4">
+    <name>Launch the Professional’s Guide to Educating Adults Training</name>
+    <scormtype>local</scormtype>
+    <reference>SCORM_ProfessionalGuide_SCORM_3-16-11.zip</reference>
+    <intro>&lt;p&gt;Professional’s Guide to Educating Adults with Learning Disabilities Training Module&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <version>SCORM_1.2</version>
+    <maxgrade>100</maxgrade>
+    <grademethod>1</grademethod>
+    <whatgrade>0</whatgrade>
+    <maxattempt>0</maxattempt>
+    <forcecompleted>0</forcecompleted>
+    <forcenewattempt>0</forcenewattempt>
+    <lastattemptlock>0</lastattemptlock>
+    <displayattemptstatus>1</displayattemptstatus>
+    <displaycoursestructure>0</displaycoursestructure>
+    <updatefreq>0</updatefreq>
+    <sha1hash>60c093092c46d94e520657d43f3dee6c0b96061f</sha1hash>
+    <md5hash></md5hash>
+    <revision>1</revision>
+    <launch>8</launch>
+    <skipview>0</skipview>
+    <hidebrowse>0</hidebrowse>
+    <hidetoc>3</hidetoc>
+    <nav>2</nav>
+    <navpositionleft>-100</navpositionleft>
+    <navpositiontop>-100</navpositiontop>
+    <auto>0</auto>
+    <popup>1</popup>
+    <options>resizable=1,scrollbars=0,directories=0,location=0,menubar=0,toolbar=0,status=0</options>
+    <width>825</width>
+    <height>610</height>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1374075488</timemodified>
+    <completionstatusrequired>$@NULL@$</completionstatusrequired>
+    <completionscorerequired>$@NULL@$</completionscorerequired>
+    <scoes>
+      <sco id="7">
+        <manifest>ABCDB8B0B8E064BDEA0E1DE3374164D4</manifest>
+        <organization></organization>
+        <parent>/</parent>
+        <identifier>LINEAR</identifier>
+        <launch></launch>
+        <scormtype></scormtype>
+        <title>NIFL - Professional Guide</title>
+        <sortorder>0</sortorder>
+        <sco_datas>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+      <sco id="8">
+        <manifest>ABCDB8B0B8E064BDEA0E1DE3374164D4</manifest>
+        <organization>LINEAR</organization>
+        <parent>LINEAR</parent>
+        <identifier>ident001</identifier>
+        <launch>index.html</launch>
+        <scormtype>sco</scormtype>
+        <title>NIFL - Professional Guide</title>
+        <sortorder>0</sortorder>
+        <sco_datas>
+          <sco_data id="7">
+            <name>isvisible</name>
+            <value>true</value>
+          </sco_data>
+          <sco_data id="8">
+            <name>parameters</name>
+            <value></value>
+          </sco_data>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+    </scoes>
+  </scorm>
+</activity>
